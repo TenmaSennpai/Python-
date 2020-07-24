@@ -1,6 +1,6 @@
 # Python-
 Python 连接数据库
-1.	安装Access 2019，选64位，https://msdn.itellyou.cn/，激活
+1.	安装Access 2019，选64位，https://msdn.itellyou.cn/ ，激活
 2.	安装ODBC驱动工具，选64位
 Microsoft Access Database Engine 2016 Redistributable
 https://www.microsoft.com/en-us/download/details.aspx?id=54920
