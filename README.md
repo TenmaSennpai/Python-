@@ -1,5 +1,5 @@
-# Python-
-Python 连接数据库
+# Python connecting to Microsoft Access Database
+Python连接Access数据库
 1.	安装Access 2019，选64位，安装后激活，https://msdn.itellyou.cn/  
 2.	安装ODBC驱动工具，选64位，安装  
 Microsoft Access Database Engine 2016 Redistributable  
