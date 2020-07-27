@@ -1,7 +1,7 @@
 # Python connecting to Microsoft Access Database
 Python连接Access数据库
-1.	安装[Access 2019](https://msdn.itellyou.cn/)，选64位，安装后激活  
-2.	安装ODBC驱动工具，选64位，安装[Microsoft Access Database Engine 2016 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=54920)  
+1.	安装数据库管理系统（[Microsoft Office Access 2019](https://msdn.itellyou.cn/)），选64位，安装后激活  
+2.	安装ODBC驱动工具（[Microsoft Access Database Engine 2016 Redistributable）](https://www.microsoft.com/en-us/download/details.aspx?id=54920)），选64位，安装  
 ![Image](https://raw.githubusercontent.com/TenmaSennpai/PythonAccess/master/1.png)  
 ![Image](https://raw.githubusercontent.com/TenmaSennpai/PythonAccess/master/2.png)  
 3.	安装pyodbc，打开powershell输入「pip install pyodbc」
